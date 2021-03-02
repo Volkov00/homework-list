@@ -30,10 +30,13 @@
 .item-list:hover .sub-item {
   display: block;
 }
-.third-list {
+.women-list {
+  position: relative;
+}
+.third-list-menu {
   position: absolute;
   left: 100%;
-  top: -2%;
+  top: 0;
 }
 .third-item {
   display: none;
